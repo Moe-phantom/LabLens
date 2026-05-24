@@ -35,9 +35,9 @@ Petri Dish Image
        |
        v
   [ Llama 3.2 via Ollama ] — Lab report generation
-       |
-       v
-  [ SQLite ]              — Experiment history and trend logging
+       
+       
+
 ```
 
 This decoupled design runs efficiently on a consumer laptop (Intel i5, 8GB RAM) without requiring a GPU or internet connection at inference time.
